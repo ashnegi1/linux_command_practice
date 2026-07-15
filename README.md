@@ -1,8 +1,6 @@
-![Linux](https://img.shields.io/badge/Linux-Kali-blue)
+![Linux](https://img.shields.io/badge/Linux-Kali-blue) ![Shell](https://img.shields.io/badge/Shell-Bash-green) ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-![Shell](https://img.shields.io/badge/Shell-Bash-green)
 
-![Status](https://img.shields.io/badge/Status-Completed-success)
 
 # Linux Command Practice
 
@@ -62,8 +60,52 @@ After completing this practice, I can:
 - Work with the Nano editor
 
 ## Screenshots
+### 1. Kali Linux Desktop
 
-(Add screenshots below)
+This is the Kali Linux environment running on VMware Fusion after installation and configuration.
+
+![Kali Linux Desktop](screenshots/kali_desk_Ss.png)
+
+---
+
+### 2. Project Folder Structure
+
+Directory hierarchy created for the Linux Search Project.
+
+![Folder Structure](screenshots/files_structure_ss.png)
+
+---
+
+### 3. Searching Files using `find`
+
+Demonstration of locating files within the project using the `find` command.
+
+![Find Command](screenshots/find_Ss.png)
+
+---
+
+### 4. Searching Text using `grep`
+
+Using the `grep` command to search for specific keywords across multiple files.
+
+![Grep Command](screenshots/grep_Ss.png)
+
+---
+
+### 5. Editing Files using Nano
+
+Editing text files directly from the Linux terminal using the Nano editor.
+
+![Nano Editor](screenshots/Nano_ss.png)
+
+---
+
+### 6. Workflow Overview
+
+Overall workflow followed during the Linux command practice assignment.
+
+![Workflow](screenshots/flow_ss.png)
+
 
 ## Author
 
