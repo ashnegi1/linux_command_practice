@@ -1,53 +1,70 @@
+![Linux](https://img.shields.io/badge/Linux-Kali-blue)
+
+![Shell](https://img.shields.io/badge/Shell-Bash-green)
+
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 # Linux Command Practice
 
-This repository contains my hands-on Linux practice completed during my Cloud & DevOps training.
+A beginner-friendly Linux practice repository created during my Cloud & DevOps training.
 
-## Topics Covered
+## About
 
-- Linux file system navigation
-- Directory creation
-- File management
-- Nano text editor
-- Linux search commands
-- grep
-- find
-- wc
-- sort
-- uniq
-- pipes
-- shell basics
+This repository documents my hands-on Linux command practice completed as part of a Cloud & DevOps course.
 
-## Commands Practiced
+The objective was to become familiar with Linux terminal commands by creating directories, managing files, searching text, editing files, and performing common filesystem operations.
 
-- pwd
-- ls
-- cd
-- mkdir
-- touch
-- rm
-- nano
-- cat
-- head
-- tail
-- grep
-- find
-- wc
-- tr
-- uniq
-- sort
-
-## Environment
+## Technologies
 
 - Kali Linux
 - VMware Fusion
-- Apple MacBook Air M1
+- Bash
+- Linux CLI
 
-## Project Structure
+## Topics Covered
+
+- Linux file system
+- Directory navigation
+- File management
+- Nano editor
+- grep
+- find
+- wc
+- head
+- tail
+- pipes
+- sort
+- uniq
+- tr
+
+## Repository Structure
 
 ```
-Linux_Search_Project/
+Linux_search_project/
 ├── HR
 ├── IT
-├── Finance
-└── Sales
+├── Sales
+└── Finance
 ```
+
+## Learning Outcomes
+
+After completing this practice, I can:
+
+- Navigate the Linux filesystem
+- Create and manage directories
+- Create, edit and delete files
+- Search files using `find`
+- Search text using `grep`
+- Count words and lines using `wc`
+- Use pipes (`|`)
+- Understand relative and absolute paths
+- Work with the Nano editor
+
+## Screenshots
+
+(Add screenshots below)
+
+## Author
+
+Ashmit Negi
